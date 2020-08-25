@@ -24,6 +24,6 @@ bland_chromatin integer Value range: 1-10
 
 normal_nucleoli integer Value range: 1-10 
 
-mitosis integer Value range: 1-10 class integer 
+mitosis integer Value range: 1-10 
 
-Predictor Value: 2 for benign, 4 for malignant
+class integer Predictor Value: 2 for benign, 4 for malignant
